@@ -29,13 +29,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   </p>
-<h4>I'm Interested In 📚</h4>
+<h4>Now I'm Learning 📚</h4>
   <p>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Blockchain.com-121D33?style=flat-square&logo=Blockchain.com&logoColor=white"/>
-    <img src="https://img.shields.io/badge/ChatBot-0066FF?style=flat-square&logo=ChatBot&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Fultter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   </p>
 <hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyunim00&show_icons=true&theme=tokyonight)
