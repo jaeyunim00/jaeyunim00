@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <h4>My Back stack 📚</h4>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   </p>
 <h4>Now I'm Learning 📚</h4>
   <p>
