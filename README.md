@@ -1,6 +1,12 @@
-### console.log("Hello, seniors🥺");
-
-
+## console.log("welcome~ 👋");
+```js
+let jaeyunim00 = {
+  name: "임재윤",
+  education: "조선대학교 정보보안전공(재학중)",
+  age: 24,
+  intro: "항상 궁금해하고, 배움을 좋아하는.",
+}
+```
 
 <!--
 **jaeyunim00/jaeyunim00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,13 +34,6 @@ Here are some ideas to get you started:
 <h4>My Back stack 📚</h4>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  </p>
-<h4>Now I'm Learning 📚</h4>
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Fultter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   </p>
 <hr>
 
